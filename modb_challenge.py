@@ -1,8 +1,8 @@
 def main():
-    first_name = input("Enter your first name: ")
-    last_name = input("Enter your last name: ")
+    firstname = input("Enter your first name: ")
+    lastname = input("Enter your last name: ")
     
-    print("Hello, %s %s!"%(first_name,last_name))
+    print("Hello, %s %s!"%(firstname,lastname))
     print()
 
     food = ['Apples', 'Cookies', 'Ice cream', 'Cereal']
